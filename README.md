@@ -1,5 +1,6 @@
 # Friends_Corpus_Analysis
 I. quantitative analysis for friends Season1 to get insights about character traits and growth through character lines
+
 II. Coding explanations
 1) 008FriendsScripts1-008FriendsScripts10 are the scraping cods for season1-season10 all episodes without character names mentioned in the texts
 2) 009FriendsS1E1-009FriendsS8-S10 are the scraping codes for season1-season10 all episides with character names mentioned in the texts
@@ -16,4 +17,5 @@ II. Coding explanations
 13) 017_DialogueLengthC/DialogueLengthC(complexity)_Compare are the sentence length and sentence complexity and their comparison of six characters in season1
 14) 018_Character_networks/018_Character_Networks1_Traits/Professions/Relations are network analysis of 6 characters and extract text information about different character's traits, professions and relations for season1
 15) 019_NER is the NER analysis of six characters in season1
+
 III. The main corpus used for analysis is seasonwise version corpus scraped from Kaggle
